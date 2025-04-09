@@ -35,7 +35,28 @@ bound-by-shadows/
 - **Complete Production Plan:** 24-week schedule for solo anime creation
 - **AI Tool Integration:** Specific workflows for ChatGPT 4o image generation and Pika animation
 - **Comprehensive Storyboards:** Detailed visual planning for key scenes
+- **Google Cloud and Firebase Integration:**
+This project plans to utilize Google Cloud services and Firebase to support its development and potential deployment. Firebase will be employed for data storage, ensuring data integrity, and enabling user management features if needed. Google Cloud services will be considered for potentially serving AI models, which could enhance various aspects of the production pipeline, such as content generation or optimization. These services are chosen for their scalability, reliability, and ability to grow with the project's needs, from initial development to possible expansion.
+
+-**Browser Compatibility:**
+
+Given the project's reliance on AI tools for various creative tasks, ensuring browser compatibility is crucial. Throughout the development process, testing will be performed across major browsers, including Chrome, Safari, and Firefox. If compatibility issues arise with specific AI tool outputs or functionalities, fallback solutions or alternative AI tool choices will be considered to maintain a consistent and accessible experience.
+
+
+
 - **Soundtrack Guidance:** Music design that reinforces the art/music power theme
+
+## Audio Production
+
+While the actual audio production (voice acting, sound effects implementation, and final mixing) is outside the immediate scope of this AI-focused solo project, this repository is set up to plan for its eventual integration. This planning will include:
+
+- **Voice Acting Placeholders:** Identifying where dialogue and character voices are needed.
+- **Sound Effect Planning:** Determining the types of sound effects required for key scenes and actions.
+- **Music Placement:** Defining where music tracks should start, stop, and transition to enhance the narrative.
+
+The `soundtrack/soundtrack_guidance.md` file will be essential in guiding the final audio production, ensuring that music and sound design reinforce the art/music power theme.
+
+
 
 ## Getting Started
 
